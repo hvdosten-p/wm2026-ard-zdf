@@ -507,7 +507,7 @@ BEGIN:VEVENT
 UID:wm2026-r32-1j-2h
 DTSTART;TZID=Europe/Berlin:20260704T000000
 DTEND;TZID=Europe/Berlin:20260704T020000
-SUMMARY:WM Sechzehntelfinale: Sieger Gruppe J – Zweiter Gruppe H
+SUMMARY:WM Sechzehntelfinale: Argentinien – Zweiter Gruppe H
 END:VEVENT
 
 BEGIN:VEVENT
