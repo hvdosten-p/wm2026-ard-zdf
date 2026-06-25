@@ -376,14 +376,14 @@ BEGIN:VEVENT
 UID:wm2026-r32-2a-2b
 DTSTART;TZID=Europe/Berlin:20260628T210000
 DTEND;TZID=Europe/Berlin:20260628T230000
-SUMMARY:WM Sechzehntelfinale: Zweiter Gruppe A – Kanada
+SUMMARY:WM Sechzehntelfinale: Südafrika – Kanada
 END:VEVENT
 
 BEGIN:VEVENT
 UID:wm2026-r32-1c-2f
 DTSTART;TZID=Europe/Berlin:20260629T190000
 DTEND;TZID=Europe/Berlin:20260629T210000
-SUMMARY:WM Sechzehntelfinale: Sieger Gruppe C – Zweiter Gruppe F
+SUMMARY:WM Sechzehntelfinale: Brasilien – Zweiter Gruppe F
 END:VEVENT
 
 BEGIN:VEVENT
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 UID:wm2026-r32-1f-2c
 DTSTART;TZID=Europe/Berlin:20260630T030000
 DTEND;TZID=Europe/Berlin:20260630T050000
-SUMMARY:WM Sechzehntelfinale: Sieger Gruppe F – Zweiter Gruppe C
+SUMMARY:WM Sechzehntelfinale: Sieger Gruppe F – Marokko
 END:VEVENT
 
 BEGIN:VEVENT
